@@ -81,6 +81,6 @@ Sample output:
     Tie.
     
     
-** To compile: javac PokerGame.java
-** To run: java PokerGame
-*** Note: make sure PokerGame.java and Player.java are in the same folder 
+# To compile: javac PokerGame.java
+# To run: java PokerGame
+## Note: make sure PokerGame.java and Player.java are in the same folder 
